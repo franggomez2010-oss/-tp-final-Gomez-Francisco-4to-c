@@ -1,0 +1,54 @@
+
+body {
+    background-color: #101c16;
+    color: white;
+    font-family: Arial;
+    margin: 0;
+}
+
+header {
+    background-color: #123d27;
+    text-align: center;
+    padding: 25px;
+}
+
+header h1 {
+    color: #f5c542;
+}
+
+nav {
+    background-color: #1b2b22;
+    text-align: center;
+    padding: 15px;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    margin: 15px;
+}
+
+main {
+    margin: 30px;
+    padding: 20px;
+    background-color: #1b2b22;
+}
+
+h2 {
+    color: #f5c542;
+}
+
+p {
+    font-size: 17px;
+}
+
+img {
+    width: 80%;
+    margin: 15px;
+}
+
+footer {
+    background-color: #123d27;
+    text-align: center;
+    padding: 15px;
+}
